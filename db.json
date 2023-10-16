@@ -1,0 +1,129 @@
+{
+  "quizes": [
+    {
+      "created": "2020-12-01 12:00:00",
+      "description": "Dive into the depths of human psychology and behavior.",
+      "id": 32,
+      "modified": "2020-12-01 12:00:00",
+      "questions_answers": [
+        {
+          "answer_id": null,
+          "answers": [
+            {
+              "id": 140,
+              "is_true": false,
+              "text": "Sigmund Freud"
+            },
+            {
+              "id": 141,
+              "is_true": true,
+              "text": "B.F. Skinner"
+            },
+            {
+              "id": 142,
+              "is_true": false,
+              "text": "Carl Rogers"
+            },
+            {
+              "id": 143,
+              "is_true": false,
+              "text": "Jean Piaget"
+            }
+          ],
+          "feedback_false": "The correct answer is B.F. Skinner, who was a prominent figure in behaviorism and contributed significantly to the development of operant conditioning theory. This theory focuses on understanding behavior through observation and reinforcement.",
+          "feedback_true": "Correct! B.F. Skinner was instrumental in developing the theory of operant conditioning, focusing on how behavior is influenced by rewards and punishments.",
+          "id": 60,
+          "text": "Which psychologist is known for his work on operant conditioning?"
+        }
+      ],
+      "score": 75,
+      "title": "Psychology Fundamentals",
+      "url": "https://www.example.com/quiz/psychology"
+    },
+    {
+      "created": "2021-01-15 08:15:30",
+      "description": "Test your knowledge on the complexities of global economics.",
+      "id": 33,
+      "modified": "2021-01-15 08:15:30",
+      "questions_answers": [
+        {
+          "answer_id": null,
+          "answers": [
+            {
+              "id": 150,
+              "is_true": false,
+              "text": "Inflation"
+            },
+            {
+              "id": 151,
+              "is_true": false,
+              "text": "Deflation"
+            },
+            {
+              "id": 152,
+              "is_true": true,
+              "text": "Stagflation"
+            },
+            {
+              "id": 153,
+              "is_true": false,
+              "text": "Hyperinflation"
+            }
+          ],
+          "feedback_false": "The correct term is 'Stagflation.' It's a situation in economics where the inflation rate is high, the economic growth rate slows, and unemployment remains steadily high. It presents a dilemma for economic policy since actions designed to lower inflation may exacerbate unemployment.",
+          "feedback_true": "Correct! Stagflation is a challenging economic scenario that combines the complexities of high inflation with stagnant economic growth and high unemployment.",
+          "id": 65,
+          "text": "What is the term that describes a situation of high inflation, slow economic growth, and high unemployment?"
+        }
+      ],
+      "score": 80,
+      "title": "Global Economics 101",
+      "url": "https://www.example.com/quiz/economics"
+    },
+    {
+      "created": "2020-10-10 10:30:45",
+      "description": "A challenging quiz on advanced mathematics.",
+      "id": 30,
+      "modified": "2020-10-10 10:30:45",
+      "questions_answers": [
+        {
+          "answer_id": null,
+          "answers": [
+            {
+              "id": 131,
+              "is_true": false,
+              "text": "5"
+            },
+            {
+              "id": 132,
+              "is_true": true,
+              "text": "6"
+            },
+            {
+              "id": 133,
+              "is_true": false,
+              "text": "7"
+            }
+          ],
+          "feedback_false": "The correct answer is 6. This problem is a classic example of a factorial, where the answer is the product of all positive integers less than or equal to n. Here, 3 factorial (3!) equals 3 x 2 x 1 = 6.",
+          "feedback_true": "Correct",
+          "id": 56,
+          "text": "What is 3 factorial (3!)?"
+        }
+      ],
+      "score": 60,
+      "title": "Advanced Mathematics",
+      "url": "https://www.example.com/quiz/math"
+    },
+    {
+      "created": "2020-11-11 11:35:50",
+      "description": "Explore the mysteries of the universe with this quiz.",
+      "id": 31,
+      "modified": "2020-11-11 11:35:50",
+      "questions_answers": [],
+      "score": 70,
+      "title": "Astronomy 101",
+      "url": "https://www.example.com/quiz/astronomy"
+    }
+  ]
+}
